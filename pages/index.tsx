@@ -15,8 +15,8 @@ function Home() {
       >
         <Image src="/logo.svg" alt="websitetalk.club" width={155} height={28} />
       </Flex>
-      <Container as="main" mb={60}>
-        <Heading as="h1" px={3} pt={50} pb={55}>
+      <Container as="main" mb={60} px={3}>
+        <Heading as="h1" pt={50} pb={55}>
           Wir analysieren gemeinsam deine Website
         </Heading>
         <Flex sx={{ alignItems: 'center', justifyContent: 'center' }} mb={80}>
