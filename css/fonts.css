@@ -30,6 +30,6 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url('/fonts/inter/poppins-800.woff2?v=3.15') format('woff2'),
+  src: url('/fonts/poppins/poppins-800.woff2?v=3.15') format('woff2'),
     url('/fonts/inter/poppins-800.woff?v=3.15') format('woff');
 }
