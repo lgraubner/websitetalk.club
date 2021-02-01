@@ -13,11 +13,11 @@ function Home() {
           justifyContent: 'center'
         }}
       >
-        <Image src="/logo.svg" alt="websitetalk.club" width={155} height={28} />
+        <Image src="/logo.svg" alt="websitetalk" width={155} height={28} />
       </Flex>
       <Container as="main" mb={60} px={3}>
         <Heading as="h1" pt={50} pb={55}>
-          Wir analysieren gemeinsam deine Website
+          Wir analysieren gemeinsam Deine Website
         </Heading>
         <Flex sx={{ alignItems: 'center', justifyContent: 'center' }} mb={80}>
           <Box mx={2} pt={10}>
