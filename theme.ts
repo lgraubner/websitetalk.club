@@ -23,6 +23,7 @@ const theme = {
   },
   colors: {
     text: '#000',
+    dark: '#08111B',
     background: '#fff',
     white: 'white',
     muted: 'rgba(0, 0, 0, 0.5)'
