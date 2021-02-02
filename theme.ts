@@ -11,6 +11,7 @@ const theme = {
   fontWeights: {
     body: 400,
     heading: 800,
+    semibold: 600,
     bold: 700,
     medium: 500
   },
