@@ -112,7 +112,7 @@ function Home() {
           </Box>
         </Flex>
 
-        <Analysis link="https://www.dooken.de/" />
+        <Analysis link="https://www.hofgutkleinschneen.de/" />
 
         <Heading as="h2" variant="subheadline" mb={24}>
           Nächster Termin
