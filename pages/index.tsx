@@ -112,7 +112,7 @@ function Home() {
           </Box>
         </Flex>
 
-        <Analysis link="https://trimlog.de/" />
+        <Analysis link="https://www.sinnbild-media.de/" />
 
         <Heading as="h2" variant="subheadline" mb={24}>
           Nächster Termin
