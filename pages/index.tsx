@@ -112,7 +112,7 @@ function Home() {
           </Box>
         </Flex>
 
-        <Analysis link="https://www.my-sportswear.de/" />
+        <Analysis link="https://oui-fotografie.de/" />
 
         <Heading as="h2" variant="subheadline" mb={24}>
           Nächster Termin
