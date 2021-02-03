@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { Box, Flex, Heading, Container, Text, Link } from 'theme-ui'
+import Analysis from '../components/analysis'
 
 function Home() {
   return (
@@ -110,6 +111,8 @@ function Home() {
             </Link>
           </Box>
         </Flex>
+
+        <Analysis link="https://www.dooken.de/" />
 
         <Heading as="h2" variant="subheadline" mb={24}>
           Nächster Termin
