@@ -1,4 +1,5 @@
-# Ideen
+# Website talk
 
-- Linksammlung
-- Social Media Share Vorschau
+A collaborative Clubhouse event to discuss your websites and landing pages.
+
+![Image of websitetalk.club website](screenshot.png)
